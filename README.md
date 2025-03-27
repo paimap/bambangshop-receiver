@@ -91,6 +91,13 @@ This is the place for you to write reflections:
 
 #### Reflection Subscriber-2
 
+1. Ya, saya merubah .env untuk mengubah-ubah portnya.
+
+2. Observer Pattern mempermudah penambahan subscriber karena decoupling dan penambahan secara dinamis. Menambahkan lebih dari satu instance main app jauh lebih kompleks karena masalah manajemen data, distribusi notifikasi, dan konfigurasi
+
+3. Menggunakan postman dapat mempermudah integrasi API dengan aplikasi lain.
+
+
 
 
 
