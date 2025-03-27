@@ -90,3 +90,7 @@ This is the place for you to write reflections:
 2. Rust tidak mengizinkan untuk memodifikasi konten variabel static secara langsung dari fungsi static karena filosofi keamanan memorinya yang kuat. Rust memerlukan sinkronisasi eksplisit menggunakan lock untuk mencegah kondisi balapan dan memastikan keamanan thread.
 
 #### Reflection Subscriber-2
+
+
+
+
